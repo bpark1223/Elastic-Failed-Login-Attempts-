@@ -1,4 +1,4 @@
-# Elastic-Failed-Login-Attempts-
+# Elastic-Failed-Login-Attempts
 Creating a dashboard and visualizations 
 
 1. Log into Elastic and click on "dashboard" by way of the side navigation toggle. Then, click "create new dashboard"
